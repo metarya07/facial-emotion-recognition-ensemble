@@ -1,0 +1,8 @@
+__pycache__/
+*.pt
+*.pth
+*.csv
+*.jpg
+*.png
+*.zip
+.ipynb_checkpoints/
