@@ -29,5 +29,5 @@ Angry, Disgust, Fear, Happy, Sad, Surprise, Neutral
 1. Open the notebook in Google Colab
 2. Install dependencies:
    ```bash
-   !pip install -r requirements.txt
+   pip install -r requirements.txt
 ****
